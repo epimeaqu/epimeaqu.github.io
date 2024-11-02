@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://epimeaqu.github.io/HZY/sitemap_index.txt
+Sitemap: https://epimeaqu.github.io/VTI/sitemap_index.txt
+Sitemap: https://epimeaqu.github.io/cQx/sitemap_index.txt
+Sitemap: https://epimeaqu.github.io/jVJ/sitemap_index.txt
